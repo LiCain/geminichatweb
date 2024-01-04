@@ -114,4 +114,7 @@ This project is inspired by and based on the following open-source project:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=babaohuang/geminiprochat&type=Timeline)](https://star-history.com/#babaohuang/geminiprochat&Timeline)
 
+## Please have a cup of coffee
+
+<img src="https://github.com/LiCain/geminichatweb/assets/19221237/de3d574d-e456-4e07-befb-872d3ec386c9" alt="Buy Me A Coffee" height="300" width="300">
 
