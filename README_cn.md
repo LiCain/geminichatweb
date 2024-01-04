@@ -122,5 +122,4 @@ babaohuang/geminiprochat:latest
 ## 请杯咖啡
 
 如果这个项目对你有帮助，请杯咖啡，非常感谢！😄
-
-<a href="https://www.buymeacoffee.com/babaohuang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<img src="https://github.com/LiCain/geminichatweb/assets/19221237/de3d574d-e456-4e07-befb-872d3ec386c9" alt="Buy Me A Coffee" height="300" width="300">
