@@ -4,7 +4,7 @@ English | [中文](README_cn.md)
 
 Minimal web UI for Gemini Pro Chat.
 
-Live demo: [Gemini Pro Chat](https://www.geminiprochat.com)
+Live demo: [Gemini Pro Chat](https://geminichatweb-pi.vercel.app/)
 
 [![image](https://github.com/babaohuang/GeminiProChat/assets/559171/d02fd440-401a-410d-a112-4b10935624c6)](https://www.geminiprochat.com)
 
