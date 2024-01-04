@@ -1,6 +1,6 @@
 # GeminiProChat
 
-English | [中文](README_cn.md) | [Italiano](README_it.md)
+English | [中文](README_cn.md)
 
 Minimal web UI for Gemini Pro Chat.
 
@@ -108,11 +108,7 @@ You can control the website through environment variables.
 
 This project is inspired by and based on the following open-source project:
 
-- [ChatGPT-Demo](https://github.com/anse-app/chatgpt-demo) - For the foundational codebase and features.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=babaohuang/geminiprochat&type=Timeline)](https://star-history.com/#babaohuang/geminiprochat&Timeline)
+- [ChatGPT-Demo](https://github.com/LiCain/geminichatweb) - For the foundational codebase and features.
 
 ## Please have a cup of coffee
 
