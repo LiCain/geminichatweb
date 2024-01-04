@@ -4,7 +4,7 @@
 
 与 Gemini Pro 聊天的最简 WebUI。
 
-体验网址： [Gemini Pro Chat](https://www.geminiprochat.com)
+体验网址： [Gemini Pro Chat](https://geminichatweb-pi.vercel.app/)
 
 > [!WARNING]
 > 本项目为开源项目，使用者必须在遵循 GOOGLE 的[使用条款](https://ai.google.dev/terms)以及**法律法规**的情况下使用，不得用于非法用途。
