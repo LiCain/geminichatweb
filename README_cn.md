@@ -1,6 +1,6 @@
 # GeminiProChat
 
-[English](README.md) | 中文 | [Italiano](README_it.md)
+[English](README.md) | 中文 |
 
 与 Gemini Pro 聊天的最简 WebUI。
 
@@ -112,8 +112,7 @@ babaohuang/geminiprochat:latest
 ## 鸣谢
 
 本项目受到以下开源项目的启发，并以其为基础：
-
-- [ChatGPT-Demo](https://github.com/anse-app/chatgpt-demo) - 基础代码库和功能。
+- [ChatGPT-Demo](https://github.com/LiCain/geminichatweb) - 基础代码库和功能。
 
 ## 星势
 
