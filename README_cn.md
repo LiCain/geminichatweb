@@ -1,4 +1,4 @@
-# GeminiProChat
+# Geminichatweb
 
 [English](README.md) | 中文 |
 
@@ -11,13 +11,13 @@
 > 
 > 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
 
-[![image](https://github.com/babaohuang/GeminiProChat/assets/559171/d02fd440-401a-410d-a112-4b10935624c6)](https://www.geminiprochat.com)
+
 
 ## 部署
 
 ### 使用 Vercel 部署（推荐）
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/babaohuang/GeminiProChat&env=GEMINI_API_KEY&envDescription=Google%20API%20Key%20for%20GeminiProChat&envLink=https://makersuite.google.com/app/apikey&project-name=gemini-pro-chat&repository-name=gemini-pro-chat&demo-title=Gemini%20Pro%20Chat&demo-description=Minimal%20web%20UI%20for%20Gemini%20Pro.&demo-url=https%3A%2F%2Fgeminiprochat.com&demo-image=https%3A%2F%2Fgeminiprochat.com%2Ficon.svg)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/LiCain/geminichatweb&env=GEMINI_API_KEY&envDescription=Google%20API%20Key%20for%20geminichatweb&envLink=https://makersuite.google.com/app/apikey&project-name=gemini-pro-chat&repository-name=gemini-pro-chat&demo-title=Gemini%20Pro%20Chat&demo-description=Minimal%20web%20UI%20for%20Gemini%20Pro.&demo-url=https%3A%2F%2Fgeminichatweb-pi.vercel.app&demo-image=https%3A%2F%2Fgeminichatweb-pi.vercel.app%2Ficon.svg)
 
 只需点击上面的按钮，并按照说明操作，即可部署自己的副本。
 
@@ -67,7 +67,7 @@ babaohuang/geminiprochat:latest
 | 名称 | 说明 | 必填 |
 | --- | --- | --- |
 | `GEMINI_API_KEY` | 你的 Gemini API 密钥。可以从[此处](https://makersuite.google.com/app/apikey) 获取。| **✔** |
-| `API_BASE_URL` | Gemini API 的自定义基本 URL。点击[此处](https://github.com/babaohuang/GeminiProChat/README_cn.md#solution-for-user-location-is-not-supported-for-the-api-use)查看何时使用这个。| ❌ |
+| `API_BASE_URL` | Gemini API 的自定义基本 URL。点击[此处](https://github.com/LiCain/geminichatweb?tab=readme-ov-file#solution-for-user-location-is-not-supported-for-the-api-use)查看何时使用这个。| ❌ |
 | `HEAD_SCRIPTS` | 在页面的“</head>”之前注入分析或其他脚本 | ❌ |
 | `PUBLIC_SECRET_KEY` | 项目的密文字符串。用于为 API 调用生成签名 | ❌ |
 | `SITE_PASSWORD` | 为网站设置密码，支持用逗号分隔的多个密码。如果不设置，网站将允许公开访问 | ❌ |
@@ -116,7 +116,7 @@ babaohuang/geminiprochat:latest
 
 ## 星势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=babaohuang/geminiprochat&type=Timeline)](https://star-history.com/#babaohuang/geminiprochat&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=LiCain/geminichatweb&type=Timeline)](https://star-history.com/#LiCain/geminichatwebt&Timeline)
 
 ## 请杯咖啡
 
